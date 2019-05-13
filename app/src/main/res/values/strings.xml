@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HW_2.1.1</string>
+    <string name="infoInputText">Информация об оплате</string>
+    <string name="moneyInputText">Ввод денег</string>
+    <string name="okButton">OK</string>
+    <string name="bankCardCheckBox">С банковской карты</string>
+    <string name="mobilePhoneCheckBox">С мобильного телефона</string>
+    <string name="cashAddressCheckBox">Наличными по адресу</string>
+</resources>
